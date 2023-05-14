@@ -1,4 +1,5 @@
 #!/bin/bash
+#assignment 1
 filedir=$1
 searchstr=$2
 
